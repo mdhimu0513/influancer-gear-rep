@@ -77,6 +77,28 @@ nav .menu .img1{
    
 
 }*/
+#hero-content .logos{
+    display: flex;
+    justify-content: space-evenly;
+    /*border: 1px solid red;*/
+    margin: 0px 120px;
+    width: 1110px;
+    height: 110px;
+    align-items: center;
+    color: #FFFFFF;
+    
+}
+.skill-box{
+    padding-top: 100px;
+    width: 1024px;
+    height: 1662px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-evenly;
+}
+#skills .skills-container{
+
+}
 
 
 
